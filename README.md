@@ -48,3 +48,10 @@ More details:
 - **HTTP - request**: a bean will be created to each HTTP request;
 - **HTTP - session**: a bean will be created to each user session;
 - **HTTP - global**: application scope creates a bean to the context lifecycle of the application. In other words, while the application works, this bean will be avaliable.
+
+
+## Autowired
+
+Overview:
+
+![autowired](images/autowired.png)
