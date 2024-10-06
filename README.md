@@ -12,4 +12,8 @@ Java EE mainly in version preview of 5 was very verbose and burocratic and Sprin
 
 ## IOC
 
-![ioc - general](images/ioc-general.png)
+![ioc - IOC](images/ioc-general.png)
+
+Traditional way to work without IOC:
+
+![without IOC](images/without-ioc.png)
