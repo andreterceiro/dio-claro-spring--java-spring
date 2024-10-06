@@ -35,3 +35,8 @@ Overview:
 ## Beans
 
 ![beans](images/beans.png)
+
+
+## Scopes
+
+![scopes](images/scopes.png)
