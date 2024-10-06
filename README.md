@@ -9,3 +9,7 @@ Overview of modules:
 ![modules](images/modules.png)
 
 Java EE mainly in version preview of 5 was very verbose and burocratic and Spring Framework born as a more simple solution.
+
+## IOC
+
+![ioc - general](images/ioc-general.png)
