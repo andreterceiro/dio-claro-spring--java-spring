@@ -40,3 +40,11 @@ Overview:
 ## Scopes
 
 ![scopes](images/scopes.png)
+
+More details:
+
+- **Singleton**: the IOC container creates only one instance of the object;
+- **Prototype**: it will be created a new object on each request to the container;
+- **HTTP - request**: a bean will be created to each HTTP request;
+- **HTTP - session**: a bean will be created to each user session;
+- **HTTP - global**: application scope creates a bean to the context lifecycle of the application. In other words, while the application works, this bean will be avaliable.
