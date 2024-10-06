@@ -30,3 +30,8 @@ With IOC:
 Overview:
 
 ![overview dependency injection](images/overview-dependency-injection.png)
+
+
+## Beans
+
+![beans](images/beans.png)
