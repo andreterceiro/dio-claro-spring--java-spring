@@ -10,7 +10,11 @@ Overview of modules:
 
 Java EE mainly in version preview of 5 was very verbose and burocratic and Spring Framework born as a more simple solution.
 
-## IOC
+
+## Some concepts of Spring Framework
+
+
+### IOC
 
 Overview
 
@@ -25,19 +29,19 @@ With IOC:
 ![with IOC](images/with-ioc.png)
 
 
-## Dependency injection
+### Dependency injection
 
 Overview:
 
 ![overview dependency injection](images/overview-dependency-injection.png)
 
 
-## Beans
+### Beans
 
 ![beans](images/beans.png)
 
 
-## Scopes
+### Scopes
 
 ![scopes](images/scopes.png)
 
@@ -50,8 +54,15 @@ More details:
 - **HTTP - global**: application scope creates a bean to the context lifecycle of the application. In other words, while the application works, this bean will be avaliable.
 
 
-## Autowired
+### Autowired
 
 Overview:
 
 ![autowired](images/autowired.png)
+
+
+## Spring boot
+
+Overview:
+
+![Spring Boot - overview](images/springboot-overview.png)
