@@ -72,3 +72,7 @@ Before Sprint Boot:
 ![before Spring Boot](images/before-springboot.png)
 
 The role of Spring Boot is to aid in the configuration step. `Dependency injection` and `inversion of control` are concepts more related to Spring Framework, not to Spring Boot. The general idea is let you to put focus on the things related to the business.
+
+Starters:
+
+![starters](images/starters.png)
