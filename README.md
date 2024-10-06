@@ -76,3 +76,7 @@ The role of Spring Boot is to aid in the configuration step. `Dependency injecti
 Starters:
 
 ![starters](images/starters.png)
+
+Starters are dependency descriptors. In the previous image, in the left part, please see the comments in green. To me (my comment and not a comment of the teacher, the left part of the image seemed a part of a `pom.xml` of Maven). In the right part is showed a more easy way to do the same thing using a starter. As you can see in the right part of the image, the `Spring Boot` is used in the right part of the image.
+
+[08:06]
