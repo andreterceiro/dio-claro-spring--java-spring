@@ -113,3 +113,5 @@ We generated this starter there:
 I had to generated a little different starter because some version change between my generation and the generation of the teacher while he was recording the class:
 
 ![my first steps initializer](images/my-first-steps-initializer.png)
+
+I versioned the generated starter with the name `generated-initializer.zip` in the root directory. I extracted this zip file with the name `project-generated-with-initializer`, also in the root directory.
