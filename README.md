@@ -86,3 +86,7 @@ Benefits:
 - Optimization of time;
 - Simple configuration;
 - Focus on business.
+
+Some starters:
+
+![some starters](images/some-starters.png)
