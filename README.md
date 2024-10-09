@@ -115,3 +115,7 @@ I had to generated a little different starter because some version change betwee
 ![my first steps initializer](images/my-first-steps-initializer.png)
 
 I versioned the generated starter with the name `generated-initializer.zip` in the root directory. I extracted this zip file with the name `project-generated-with-initializer`, also in the root directory.
+
+To run this project, see the file and the run button that I pressed in VSCode in the next image:
+
+![running](images/running.png)
