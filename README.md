@@ -16,7 +16,7 @@ Java EE mainly in version preview of 5 was very verbose and burocratic and Sprin
 
 ### IOC
 
-Overview
+Overview:
 
 ![ioc - IOC](images/ioc-general.png)
 
@@ -79,4 +79,10 @@ Starters:
 
 Starters are dependency descriptors. In the previous image, in the left part, please see the comments in green. To me (my comment and not a comment of the teacher, the left part of the image seemed a part of a `pom.xml` of Maven). In the right part is showed a more easy way to do the same thing using a starter. As you can see in the right part of the image, the `Spring Boot` is used in the right part of the image.
 
-[08:06]
+Benefits:
+
+- Cohesion;
+- Compatibles versions;
+- Optimization of time;
+- Simple configuration;
+- Focus on business.
