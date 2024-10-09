@@ -109,3 +109,7 @@ Site: [https://start.spring.io/](https://start.spring.io/)
 We generated this starter there:
 
 ![initializer generated](images/generated-first-steps-initializer.png)
+
+I had to generated a little different starter because some version change between my generation and the generation of the teacher while he was recording the class:
+
+![my first steps initializer](images/my-first-steps-initializer.png)
