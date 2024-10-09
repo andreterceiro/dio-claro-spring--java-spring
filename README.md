@@ -119,3 +119,7 @@ I versioned the generated starter with the name `generated-initializer.zip` in t
 To run this project, see the file and the run button that I pressed in VSCode in the next image:
 
 ![running](images/running.png)
+
+We made a simple `Calculadora` class that we stored in the root directory of the package who has a simple "somar" method that add two integers. This is the wrong strategy to use this class, insatantiating manually the class. The class is not avaliable in the "Spring world" using dependency injection ans inversion of control. See:
+
+![wrong startegy](images/wrong-strategy.png)
