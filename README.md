@@ -123,3 +123,9 @@ To run this project, see the file and the run button that I pressed in VSCode in
 We made a simple `Calculadora` class that we stored in the root directory of the package who has a simple "somar" method that add two integers. This is the wrong strategy to use this class, insatantiating manually the class. The class is not avaliable in the "Spring world" using dependency injection ans inversion of control. See:
 
 ![wrong startegy](images/wrong-strategy.png)
+
+
+## Using Spring
+
+Please see [this video](https://youtu.be/bSrLs8Yx5cw).
+
