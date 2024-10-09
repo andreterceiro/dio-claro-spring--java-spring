@@ -101,3 +101,11 @@ More starters:
 Basic steps:
 
 ![creating a simple Spring Boot project](images/creating-a-simple-spring-boot-project.png)
+
+* `"initializr"` is also known as Spring Initializr.
+
+Site: [https://start.spring.io/](https://start.spring.io/)
+
+We generated this starter there:
+
+![initializer generated](images/generated-first-steps-initializer.png)
