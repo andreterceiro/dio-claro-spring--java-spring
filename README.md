@@ -94,3 +94,10 @@ Some starters:
 More starters:
 
 ![more starters](images/more-starters.png)
+
+
+## Creating a simple Spring Boot project
+
+Basic steps:
+
+![creating a simple Spring Boot project](images/creating-a-simple-spring-boot-project.png)
