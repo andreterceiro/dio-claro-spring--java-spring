@@ -90,3 +90,7 @@ Benefits:
 Some starters:
 
 ![some starters](images/some-starters.png)
+
+More starters:
+
+![more starters](images/more-starters.png)
