@@ -166,3 +166,5 @@ Definition of JPA:
 JPA - mapping:
 
 ![JPA - mapping](images/jpa-mapping.png)
+
+I made a [video](https://youtu.be/7ZGD9HBcgKo) about this class.
