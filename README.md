@@ -150,4 +150,11 @@ My video talking about this class: [video](https://youtu.be/KP2kOnCCHjM).
 
 ## Configuration properties
 
-In [this class](https://web.dio.me/course/imersao-no-spring-framework-com-spring-boot/learning/76c0fe87-be0c-40cd-8028-91025f00882b?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined) the teacher also talked about the use of `application.properties`, but through a ** bean** in this case. See [my understainding](https://youtu.be/aMD_b5hscQo) of this class. 
+In [this class](https://web.dio.me/course/imersao-no-spring-framework-com-spring-boot/learning/76c0fe87-be0c-40cd-8028-91025f00882b?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined) the teacher also talked about the use of `application.properties`, but through a ** bean** in this case. See [my understainding](https://youtu.be/aMD_b5hscQo) of this class.
+
+
+## JPA - Java Persistence API
+
+Some keywords:
+
+![some JPA keywords](images/jpa-keywords.png)
