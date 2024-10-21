@@ -129,3 +129,12 @@ We made a simple `Calculadora` class that we stored in the root directory of the
 
 Please see [this video](https://youtu.be/bSrLs8Yx5cw).
 
+
+## Singleton x prototype
+
+[Class](https://web.dio.me/course/imersao-no-spring-framework-com-spring-boot/learning/13a57341-f406-463b-ac6c-037a08d8ee2f?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined)
+
+As I need to be more quick in my studies, I recorded [this video](https://youtu.be/kovC2AcR05M) trying to save some time.
+
+
+## 
