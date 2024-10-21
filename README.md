@@ -194,3 +194,7 @@ In the previous image you can see how JPA made the "magic" of updating the relat
 The configurations that teacher get from the previous slide he pasted in `application.properties`:
 
 ![database configuration in application.properties](images/pasting-configurations-in-application-properties.png)
+
+Teacher also inserted the PostegreSQL dependency in `pom.xml`, but he can added this dependency when he generated the basic project in Initializr:
+
+![PostegreSQL dependency in applicaion.properties](images/postegresql-dependency-in-pom-xml.png)
