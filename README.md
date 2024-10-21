@@ -232,3 +232,7 @@ An example of `JPQL`. As you can see in the previous image, the name **findByEma
 Some JPA naming patterns:
 
 ![some JPA naming patterns](images/some-jpa-naming-patterns.png)
+
+Teacher also talked about `query method` x `query override`. In the first case, the defition of the way to opperate of the method is defined by its name, but in the second case we override the default functionality inseting a `@query` annotation and the query that we want. Please see the next image about finding user data based on its name using the SQL like operator:
+
+![query method x query method override](images/query-method-x-query-override.png)
