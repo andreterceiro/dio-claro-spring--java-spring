@@ -190,3 +190,7 @@ Teacher configured some details of the connection with the PostgreSQL database i
 ![configuring data of a specific PostgreSQL connection](images/configuring-a-connection-with-postegresql.png)
 
 In the previous image you can see how JPA made the "magic" of updating the relational side with updating the Spring side.
+
+The configurations that teacher get from the previous slide he pasted in `application.properties`:
+
+![database configuration in application.properties](images/pasting-configurations-in-application-properties.png)
