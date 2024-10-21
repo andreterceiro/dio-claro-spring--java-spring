@@ -140,3 +140,5 @@ As I need to be more quick in my studies, I recorded [this video](https://youtu.
 ## application.properties
 
 Intruductory [slide](images/application-properties.png).
+
+The teacher talked about application.properties when he talked about providing some values to the application.
