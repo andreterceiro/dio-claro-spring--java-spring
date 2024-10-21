@@ -236,3 +236,5 @@ Some JPA naming patterns:
 Teacher also talked about `query method` x `query override`. In the first case, the defition of the way to opperate of the method is defined by its name, but in the second case we override the default functionality inseting a `@query` annotation and the query that we want. Please see the next image about finding user data based on its name using the SQL like operator:
 
 ![query method x query method override](images/query-method-x-query-override.png)
+
+You can see that in the query override, in the interface of the image we inserted what to do with the `@Query` annotation the `@Param` annotation of the param. JPA will map this value to the `%:name` in the query of the previous line.
