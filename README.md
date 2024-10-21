@@ -242,3 +242,5 @@ You can see that in the query override, in the interface of the image we inserte
 I make this [simple video](https://youtu.be/iYq-Vxz1MHM) about the class.
 
 [Slides](https://docs.google.com/presentation/d/1jS5Ov8UCSnzgW3TLBcAsGrXo__kL6FOG/edit?rtpof=true&sd=true&pli=1) of this class.
+
+[Github code](https://github.com/digitalinnovationone/dio-springboot) related to this class.
