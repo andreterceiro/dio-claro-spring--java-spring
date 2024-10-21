@@ -219,3 +219,12 @@ When we use the connection with a table in a "JPA world", we use AOP (aspect ori
 Searching in the JPA world:
 
 ![searching in JPA world](images/searching-in-jpa-world.png)
+
+`JPQL` is the language used in the "JPA world".
+
+An example of `JPQL`. As you can see in the previous image, the name **findByEmailAddressAndLastname** follows a standard. as you can see, you have "emailAddress" and "lastname" as the parameters of this function. The parts:
+- **find**: the operation;
+- **By**: indicates that the fields will be passed;
+- **EmailAddress**: a field;
+- **And**: connector;
+- **Lastname**: another field.
