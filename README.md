@@ -137,4 +137,6 @@ Please see [this video](https://youtu.be/bSrLs8Yx5cw).
 As I need to be more quick in my studies, I recorded [this video](https://youtu.be/kovC2AcR05M) trying to save some time.
 
 
-## 
+## application.properties
+
+Intruductory [slide](images/application-properties.png).
