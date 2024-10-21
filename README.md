@@ -181,3 +181,10 @@ Here teacher used [Spring Initializr](http://start.spring.io) to generate the pr
 Pay attention that he both added the dependency of JPA as the dependency related to the RDBMS, in this case HS, but he could added the depenedency for MySQL or PostegreSQL if he wanted.
 
 I recorded [this video](/home/andre/Área de Trabalho/spring-data-jpa.mp4) about this class.
+
+
+## Using PostgreSQL
+
+Teacher configured some details of the connection with the PostgreSQL database in `application.properties`:
+
+![configuring data of a specific PostgreSQL connection](images/configuring-a-connection-with-postegresql.png)
