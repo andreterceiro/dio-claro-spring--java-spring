@@ -162,3 +162,7 @@ Some keywords:
 Definition of JPA:
 
 ![JPA definition](images/jpa-definition.png)
+
+JPA - mapping:
+
+![JPA - mapping](images/jpa-mapping.png)
