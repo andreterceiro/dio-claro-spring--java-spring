@@ -240,3 +240,5 @@ Teacher also talked about `query method` x `query override`. In the first case, 
 You can see that in the query override, in the interface of the image we inserted what to do with the `@Query` annotation the `@Param` annotation of the param. JPA will map this value to the `%:name` in the query of the previous line.
 
 I make this [simple video](https://youtu.be/iYq-Vxz1MHM) about the class.
+
+[Slides](https://docs.google.com/presentation/d/1jS5Ov8UCSnzgW3TLBcAsGrXo__kL6FOG/edit?rtpof=true&sd=true&pli=1) of this class.
