@@ -228,3 +228,7 @@ An example of `JPQL`. As you can see in the previous image, the name **findByEma
 - **EmailAddress**: a field;
 - **And**: connector;
 - **Lastname**: another field.
+
+Some JPA naming patterns:
+
+![some JPA naming patterns](images/some-jpa-naming-patterns.png)
