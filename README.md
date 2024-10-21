@@ -200,3 +200,10 @@ Teacher also inserted the PostegreSQL dependency in `pom.xml`, but he can added 
 ![PostegreSQL dependency in applicaion.properties](images/postegresql-dependency-in-pom-xml.png)
 
 I made [this video](https://youtu.be/f-1qoG5xMoY) about this class.
+
+
+## JPA repository
+
+Teacher teached us that `Repository` is similar to `DAO` (`D`ata `A`ccess `O`bject), see:
+
+![Repository similar to DAO](images/repository-similar-to-dao.png)
