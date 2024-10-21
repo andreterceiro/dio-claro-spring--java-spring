@@ -179,3 +179,5 @@ Here teacher used [Spring Initializr](http://start.spring.io) to generate the pr
 ![using Initializr for JPA](images/using-initializr-for-jpa.png)
 
 Pay attention that he both added the dependency of JPA as the dependency related to the RDBMS, in this case HS, but he could added the depenedency for MySQL or PostegreSQL if he wanted.
+
+I recorded [this video](/home/andre/Área de Trabalho/spring-data-jpa.mp4) about this class.
