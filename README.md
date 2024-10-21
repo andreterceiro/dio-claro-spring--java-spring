@@ -144,3 +144,5 @@ Intruductory [slide](images/application-properties.png).
 The teacher talked about application.properties when he talked about providing some values to the application.
 
 He talked also that this is used when we will not have change in the values.
+
+My video talking about this class: [video](https://youtu.be/KP2kOnCCHjM).
