@@ -168,3 +168,14 @@ JPA - mapping:
 ![JPA - mapping](images/jpa-mapping.png)
 
 I made a [video](https://youtu.be/7ZGD9HBcgKo) about this class.
+
+
+## Spring data JPA
+
+We will talk about interfaces and methods.
+
+Here teacher used [Spring Initializr](http://start.spring.io) to generate the project with the dependencies to use Spring Data JPA, see:
+
+![using Initializr for JPA](images/using-initializr-for-jpa.png)
+
+Pay attention that he both added the dependency of JPA as the dependency related to the RDBMS, in this case HS, but he could added the depenedency for MySQL or PostegreSQL if he wanted.
