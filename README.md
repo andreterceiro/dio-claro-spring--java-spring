@@ -207,3 +207,11 @@ I made [this video](https://youtu.be/f-1qoG5xMoY) about this class.
 Teacher teached us that `Repository` is similar to `DAO` (`D`ata `A`ccess `O`bject), see:
 
 ![Repository similar to DAO](images/repository-similar-to-dao.png)
+
+When we use the connection with a table in a "JPA world", we use AOP (aspect oriented programming, please see the result in Google, as example [this link](https://www.devmedia.com.br/programacao-orientada-a-aspectos-com-o-spring-framework-2-0/6781)). We will use annotations. and when implement some interfaces we will can use some methods, like:
+
+- save();
+- findById();
+- count();
+- delete();
+- and others.
