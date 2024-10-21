@@ -198,3 +198,5 @@ The configurations that teacher get from the previous slide he pasted in `applic
 Teacher also inserted the PostegreSQL dependency in `pom.xml`, but he can added this dependency when he generated the basic project in Initializr:
 
 ![PostegreSQL dependency in applicaion.properties](images/postegresql-dependency-in-pom-xml.png)
+
+I made [this video](https://youtu.be/f-1qoG5xMoY) about this class.
