@@ -215,3 +215,7 @@ When we use the connection with a table in a "JPA world", we use AOP (aspect ori
 - count();
 - delete();
 - and others.
+
+Searching in the JPA world:
+
+![searching in JPA world](images/searching-in-jpa-world.png)
