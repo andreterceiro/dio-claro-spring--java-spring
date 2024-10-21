@@ -188,3 +188,5 @@ I recorded [this video](/home/andre/Área de Trabalho/spring-data-jpa.mp4) about
 Teacher configured some details of the connection with the PostgreSQL database in `application.properties`:
 
 ![configuring data of a specific PostgreSQL connection](images/configuring-a-connection-with-postegresql.png)
+
+In the previous image you can see how JPA made the "magic" of updating the relational side with updating the Spring side.
