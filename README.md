@@ -158,3 +158,7 @@ In [this class](https://web.dio.me/course/imersao-no-spring-framework-com-spring
 Some keywords:
 
 ![some JPA keywords](images/jpa-keywords.png)
+
+Definition of JPA:
+
+![JPA definition](images/jpa-definition.png)
